@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lecteur_audio_c", "lecteur_audio_c\lecteur_audio_c.csproj", "{D047B3C1-6E00-48AF-9BFB-3FD48F0552D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D047B3C1-6E00-48AF-9BFB-3FD48F0552D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D047B3C1-6E00-48AF-9BFB-3FD48F0552D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D047B3C1-6E00-48AF-9BFB-3FD48F0552D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D047B3C1-6E00-48AF-9BFB-3FD48F0552D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3518A078-C7AB-4D15-A216-B661DDADD185}
+	EndGlobalSection
+EndGlobal
